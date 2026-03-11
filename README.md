@@ -9,13 +9,13 @@ I enjoy learning new technologies, taking on challenges, and turning ideas into 
 <h3>Estadísticas:</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&locale=en" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebas-Arvelo&show_icons=true&locale=en" alt="stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebas-Arvelo" alt="streak" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TUUSUARIO&show_icons=true&locale=en&layout=compact" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebas-Arvelo&show_icons=true&locale=en&layout=compact" alt="langs" />
 </p>
